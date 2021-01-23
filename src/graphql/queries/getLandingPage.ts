@@ -79,6 +79,7 @@ const GET_LANDING_PAGE = /* GraphQL */ `
       totalPrice
       numberInstallments
       priceInstallment
+      benefits
       button {
         label
         url
